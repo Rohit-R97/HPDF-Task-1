@@ -1,8 +1,8 @@
 
-* ## [Download] the whole project and save it in a folder.
+* ## Download the whole project and save it in a folder.
 * ## Start the android emulator with android 6.0 or above.
 * ## In Command Prompt, enter into the project folder then run the command:
- ## `npm start`
+   ## `npm start`
 * ## When the packager starts running, press `A` to run app in the emulator and then you are done.
 
 * ## I have followed the steps of 'Quick Start' tab in the link https://facebook.github.io/react-native/docs/getting-started.html to create the project.
